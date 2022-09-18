@@ -1,6 +1,6 @@
 $SUBMATERIAL road_gate
 $TEXTURE 0 buildings/gravel_building.dds
-$TEXTURE 1 buildings/gravel_building_e.dds
+$TEXTURE_MTL 1 ../materials/gravel_building_e2.dds
 $TEXTURE 2 buildings/blankbump.dds
 
 $DIFFUSECOLOR 0.85 0.85 0.85 1.0
