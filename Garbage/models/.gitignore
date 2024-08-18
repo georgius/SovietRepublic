@@ -1,0 +1,7 @@
+# ignore Blender backup files
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+# ignore exported mtl and obj files
+*.mtl
+*.obj
