@@ -1,6 +1,6 @@
 ### Overview
 
-Contains source models, materials and workshop items for [Pedestrian tunnel crossings](https://steamcommunity.com/sharedfiles/filedetails/?id=2795748604 "Pedestrian tunnel crossings").
+Contains source models, materials and workshop items for [Pedestrian tunnel crossings](https://steamcommunity.com/sharedfiles/filedetails/?id=3568764267).
 
 Models are created with [Blender 4.5.3 LTS](https://www.blender.org/download/releases/4-5/ "Blender 4.5.3 LTS").
 
