@@ -1,6 +1,5 @@
 $SUBMATERIAL material
 
-$TEXTURE 0 paths/pedestriantunelblueprint.dds
 $TEXTURE 0 paths/pedestriantunel.dds
 $TEXTURE 1 paths/blankspecular.dds
 $TEXTURE 2 paths/blankbump.dds
