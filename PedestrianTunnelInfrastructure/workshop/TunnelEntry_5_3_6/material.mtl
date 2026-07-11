@@ -1,0 +1,13 @@
+$SUBMATERIAL Material
+
+$TEXTURE 0 editor/models/pedestrian_elements.dds
+$TEXTURE 1 paths/blankspecular.dds
+$TEXTURE 2 paths/blankbump.dds
+
+$DIFFUSECOLOR 0.8 0.8 0.8 1
+$SPECULARCOLOR 1.000000 1.000000 1.000000 1.000000
+$AMBIENTCOLOR 0.8 0.8 0.8 1
+
+$SPECULARPOWER 2.000000
+
+$END
