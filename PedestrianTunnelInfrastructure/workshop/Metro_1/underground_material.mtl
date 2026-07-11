@@ -1,0 +1,26 @@
+$SUBMATERIAL Material
+$TEXTURE 0 editor/models/pedestrian_elements.dds
+$TEXTURE 1 buildings/blankspecular.dds
+$TEXTURE 2 buildings/blankbump.dds
+
+$DIFFUSECOLOR 0.833333 0.833333 0.833333 1
+$SPECULARCOLOR 0.500000 0.500000 0.500000 1.000000
+$AMBIENTCOLOR 0.833333 0.833333 0.833333 1
+
+$SPECULARPOWER 2.000000
+
+
+$SUBMATERIAL metro_zelivskeho_map1
+$TEXTURE 0 buildings/metro_zelivskeho_underground.dds
+$TEXTURE 1 buildings/blankspecular.dds
+$TEXTURE 2 buildings/blankbump.dds
+
+$DIFFUSECOLOR 0.833333 0.833333 0.833333 1
+$SPECULARCOLOR 0.500000 0.500000 0.500000 1.000000
+$AMBIENTCOLOR 0.833333 0.833333 0.833333 1
+
+$SPECULARPOWER 2.000000
+
+
+$END
+
