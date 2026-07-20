@@ -1,0 +1,11 @@
+$SUBMATERIAL lambert1
+
+$TEXTURE 0 editor/models/sewage.dds
+$TEXTURE 1 buildings/blankspecular.dds
+$TEXTURE 2 buildings/blankbump.dds
+
+$DIFFUSECOLOR 1.0 1.0 1.0 1.0 
+$SPECULARCOLOR 0.500000 0.500000 0.500000 1.000000
+$AMBIENTCOLOR  1.0 1.0 1.0 1.0 
+
+$END

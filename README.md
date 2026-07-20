@@ -3,3 +3,4 @@ This repository contains mod files for [Workers & Resources: Soviet Republic](ht
 - Garbage - contains source models, materials and workshop items for [Garbage transfers](https://steamcommunity.com/sharedfiles/filedetails/?id=3079679069)
 - RailGates - contains source models, materials and workshop items for [Gates with railway](https://steamcommunity.com/sharedfiles/filedetails/?id=2795748604)
 - PedestrianTunnelInfrastructure - contains source models, materials and workshop items for [Pedestrian tunnel infrastructure](https://steamcommunity.com/sharedfiles/filedetails/?id=3568764267)
+- WaterSewageInfrastructure - contains source models, materials and workshop items for [Water and Sewage infrastructure](https://steamcommunity.com/sharedfiles/filedetails/?id=3768548102)
